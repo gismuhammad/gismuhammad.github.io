@@ -31,7 +31,7 @@ body {
 }
 .container p span.typed-text {
   font-weight: normal;
-  color: #1808fc;
+  color: #ffd700;
 }
 .container p span.cursor {
   display: inline-block;
